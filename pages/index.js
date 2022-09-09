@@ -1,5 +1,6 @@
 import axios from "axios";
 import React from "react";
+import Head from "next/head";
 import Image from "next/image";
 import NavBar from "../components/navBar";
 import Card from "../components/card";
